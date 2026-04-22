@@ -1,8 +1,0 @@
-{
-  "name": "openclaw-deployment-test",
-  "version": "1.0.0",
-  "description": "Test deployment for OpenClaw GitHub/Vercel integration",
-  "scripts": {
-    "start": "npx serve"
-  }
-}
